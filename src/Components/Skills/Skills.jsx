@@ -3,6 +3,8 @@ import React from "react";
 import { SkillsInfo } from "../../constants";
 import Tilt from "react-parallax-tilt";
 
+
+
 const Skills = () => (
   <section
     id="skills"
