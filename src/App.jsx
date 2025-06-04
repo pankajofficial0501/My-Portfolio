@@ -5,7 +5,7 @@ import Contact from './Components/Contact/Contact'
 import Footer from './Components/Footer/Footer'
 import Skills from './Components/Skills/Skills'
 import Education from './Components/Education/Education'
-import Experience from './Components/Experince/Experience'
+
 import Work from './Components/Work/Work'
 import BlurBlob from './blurblob'
 
@@ -23,7 +23,7 @@ function App() {
         <Navbar />
         <About />
         <Skills />
-        <Experience />
+        
         <Work />
         <Education />
         <Contact />
